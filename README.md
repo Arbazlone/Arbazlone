@@ -38,7 +38,7 @@ I’m passionate about **AI, ML, and system-level programming** — and love bui
 |-------------|----------------|----------------|
 | 🧩 **Control Flow in C** | Demonstrates loops, conditions, and flow logic in C | C |
 | 🤖 **Basic ML Models** | Early experiments with regression and classification | Python, sklearn |
-| 💻 **Portfolio Website** | arbazlone.github.io/portfolio/ | HTML, CSS, JS |
+| 💻 **Portfolio Website** | arbazhl.vercel.app | HTML, CSS, JS |
 
 ---
 
