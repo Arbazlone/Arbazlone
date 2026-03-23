@@ -21,6 +21,19 @@ I’m passionate about **AI, ML, and system-level programming** — and love bui
 
 ---
 
+## 🏆 My Achievements
+
+| Achievement | Badge |
+|-------------|-------|
+| 🎉 **First PR Merged** | Celebrated my first open-source contribution |
+| 😂 **Code with Humor** | Made teammates smile with creative commit messages |
+| 😍 **5-Star Project** | Received positive feedback on my portfolio |
+| 😁 **100+ Commits** | Crossed 100 commits in public repositories |
+| 😆 **Consistent Learner** | Active on GitHub for 6+ months |
+| 😄 **Community Helper** | Helped peers debug their code |
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Tools |
@@ -89,8 +102,8 @@ I’m passionate about **AI, ML, and system-level programming** — and love bui
 
 ## ⚡ Fun Developer Fact
 
-> I don’t chase perfection — I debug towards it.  
-> Every broken code teaches me something a tutorial can’t. 😎
+> I don't chase perfection — I debug towards it.  
+> Every broken code teaches me something a tutorial can't. 😎
 
 ---
 
@@ -107,4 +120,4 @@ I’m passionate about **AI, ML, and system-level programming** — and love bui
 
 ---
 
-⭐ *If you like what I do, follow me — let’s grow and build together!*
+⭐ *If you like what I do, follow me — let's grow and build together!*
