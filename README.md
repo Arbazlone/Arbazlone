@@ -1,23 +1,22 @@
-<!-- Ultimate Profile README for Arbazlone -->
+# Arbaz Hassan
+**arbazone** · he/him
 
-<!-- Header Section -->
-<h1 align="center">👨‍💻 Hey there, I'm <span style="color:#00BFFF;">Arbaz</span>!</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=I'm+a+AIML+Student;I'm+a+Developer;I'm+a+C+Programmer;I'm+a+Tech+Learner;I'm+a+Future+AI+Engineer" alt="Typing Animation" />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/BCA-AI%20%26%20ML-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Future-Data%20Scientist-green?style=flat-square" />
+</div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-💡 **Curious Mind. Logical Thinker. Constant Learner.**  
-I’m passionate about **AI, ML, and system-level programming** — and love building small but meaningful projects to understand how tech actually *thinks*.  
+I'm passionate about **AI, ML, and system-level programming** — and love building small but meaningful projects to understand how tech actually thinks.
 
-- 🎓 Studying **Artificial Intelligence & Machine Learning (AIML)**  
-- 💻 Building strong fundamentals in **C, Python, and Algorithms**  
-- 🤖 Exploring how **machine learning** models work behind the scenes  
-- 🧩 Motto: *“Think deeply. Code cleanly. Debug smartly.”*
+- 🎓 Studying **Artificial Intelligence & Machine Learning (AIML)** - BCA
+- 💻 Building strong fundamentals in **C, C++, Python, and Algorithms**
+- 🤖 Exploring how **machine learning models** work behind the scenes
+- 🌐 Learning **Web Development** (HTML, CSS, JS, React)
+- 🔥 Motto: *"Think deeply. Code cleanly. Debug smartly."*
 
 ---
 
@@ -27,96 +26,80 @@ I’m passionate about **AI, ML, and system-level programming** — and love bui
 |-------------|-------|
 | 🎉 **First PR Merged** | Celebrated my first open-source contribution |
 | 😂 **Code with Humor** | Made teammates smile with creative commit messages |
-| 😍 **5-Star Project** | Received positive feedback on my portfolio |
-| 😁 **100+ Commits** | Crossed 100 commits in public repositories |
-| 😆 **Consistent Learner** | Active on GitHub for 6+ months |
-| 😄 **Community Helper** | Helped peers debug their code |
+| ⭐ **5-Star Project** | Received positive feedback on my portfolio |
+| 📈 **100+ Commits** | Crossed 100 commits in public repositories |
+| 📚 **Consistent Learner** | Active on GitHub for 6+ months |
+| 🤝 **Community Helper** | Helped peers debug their code |
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Tools |
-|-----------|-------|
-| 💻 **Languages** | `C` • `Python` • `C++` • `HTML` • `CSS` |
-| 🧠 **Core Concepts** | `AI/ML` • `DSA` • `Control Flow` • `OOP` |
-| ⚙️ **Tools / IDEs** | `VS Code` • `Git & GitHub` • `Google Colab` • `Linux` |
-| 🚀 **Learning Focus** | `Machine Learning` • `Deep Learning` • `Data Science` |
+| Category | Skills |
+|----------|--------|
+| **Languages** | C, C++, Python, JavaScript, HTML, CSS |
+| **Frameworks** | React (learning) |
+| **Core Concepts** | AI/ML, DSA, OOP, Web Development |
+| **Tools** | Git, GitHub, VS Code, Linux |
 
 ---
 
-## 💼 Projects & Highlights
-
-| 🔧 Project | 💡 Description | 🧰 Tech Stack |
-|-------------|----------------|----------------|
-| 🧩 **Control Flow in C** | Demonstrates loops, conditions, and flow logic in C | C |
-| 🤖 **Basic ML Models** | Early experiments with regression and classification | Python, sklearn |
-| 💻 **Portfolio Website** | arbazhl.vercel.app | HTML, CSS, JS |
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arbazlone&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arbazlone&theme=radical&hide_border=true" width="48%" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arbazlone&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbazlone&layout=compact&theme=tokyonight&border_radius=15)
-![GitHub Streak](https://streak-stats.demolab.com?user=Arbazlone&theme=tokyonight&border_radius=15)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Arbazlone&theme=tokyonight&no-frame=true&margin-w=15)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbazlone&layout=compact&theme=radical&hide_border=true" width="40%" />
 </div>
 
 ---
 
-## 🧩 Yearly Timeline
+## 🌐 Connect With Me
 
-| Year | Highlights |
-|------|-------------|
-| **2025** | 🚀 Started contributing to open-source and ML projects |
-| **2024** | 🧠 Built strong foundations in C & Python |
-| **2023** | 💡 Entered the programming world with curiosity and focus |
-
----
-
-## 🌱 What I’m Currently Doing
-
-- Practicing **logic-based C programming**  
-- Exploring **AI/ML algorithms**  
-- Learning **version control with Git**  
-- Preparing for **internships and personal ML projects**
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<div align="left">
+  <a href="https://arbazhl.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-arbazhl.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Arbazlone" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  <br/>
+  <a href="https://www.linkedin.com/in/arbaz-hassan-ba52b8382">
+    <img src="https://img.shields.io/badge/LinkedIn-Arbaz%20Hassan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  <br/>
+  <a href="https://www.instagram.com/hydrophillic_7">
+    <img src="https://img.shields.io/badge/Instagram-@hydrophillic__7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-## ⚡ Fun Developer Fact
+## 📍 Location & Time
 
-> I don't chase perfection — I debug towards it.  
-> Every broken code teaches me something a tutorial can't. 😎
+- 📍 **Kashmir**
+- ⏰ **05:14** (UTC -12:00)
+
+---
+
+## 👥 Followers
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Followers-3-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Following-1-lightgrey?style=flat-square&logo=github" />
+</div>
 
 ---
 
 ## 🧠 Quote That Drives Me
 
-> “The best way to predict the future is to create it — with code.”
+> *"The best way to predict the future is to create it — with code."*
 
 ---
 
-### 🌌 Profile Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arbazlone&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</p>
+### 🌟 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Arbazlone&style=flat-square&color=blueviolet)
 
 ---
 
