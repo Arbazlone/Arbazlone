@@ -1,106 +1,116 @@
-# Arbaz Hassan
-**arbazone** · he/him
+<h1 align="center">Arbaz Hassan</h1>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/BCA-AI%20%26%20ML-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Future-Data%20Scientist-green?style=flat-square" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Computer+Science+Student;Building+Cool+Stuff+🚀" />
+</p>
 
----
-
-## 👨‍💻 About Me
-
-I'm passionate about **AI, ML, and system-level programming** — and love building small but meaningful projects to understand how tech actually thinks.
-
-- 🎓 Studying **Artificial Intelligence & Machine Learning (AIML)** - BCA
-- 💻 Building strong fundamentals in **C, C++, Python, and Algorithms**
-- 🤖 Exploring how **machine learning models** work behind the scenes
-- 🌐 Learning **Web Development** (HTML, CSS, JS, React)
-- 🔥 Motto: *"Think deeply. Code cleanly. Debug smartly."*
+<p align="center">
+  💡 <i>"Crafting logic and elegance in every line of code."</i>
+</p>
 
 ---
 
-## 🏆 My Achievements
-
-| Achievement | Badge |
-|-------------|-------|
-| 🎉 **First PR Merged** | Celebrated my first open-source contribution |
-| 😂 **Code with Humor** | Made teammates smile with creative commit messages |
-| ⭐ **5-Star Project** | Received positive feedback on my portfolio |
-| 📈 **100+ Commits** | Crossed 100 commits in public repositories |
-| 📚 **Consistent Learner** | Active on GitHub for 6+ months |
-| 🤝 **Community Helper** | Helped peers debug their code |
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdzNzhscWFlbGU4bGluY3RqbjA2Z3I0M2FndW1mbTdzaHlyNnM4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf5kQturEfDELJRo4O/giphy.gif" width="100%" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Portfolio
 
-| Category | Skills |
-|----------|--------|
-| **Languages** | C, C++, Python, JavaScript, HTML, CSS |
-| **Frameworks** | React (learning) |
-| **Core Concepts** | AI/ML, DSA, OOP, Web Development |
-| **Tools** | Git, GitHub, VS Code, Linux |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arbazlone&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arbazlone&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbazlone&layout=compact&theme=radical&hide_border=true" width="40%" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="left">
-  <a href="https://arbazhl.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-arbazhl.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<p align="center">
+  <a href="https://arbazhl.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-FF6EC7?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <br/>
-  <a href="https://www.linkedin.com/in/arbaz-hassan-ba52b8382">
-    <img src="https://img.shields.io/badge/LinkedIn-Arbaz%20Hassan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:arbazhasssan2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <br/>
-  <a href="https://www.instagram.com/hydrophillic_7">
-    <img src="https://img.shields.io/badge/Instagram-@hydrophillic__7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/arbazhassan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+  <a href="https://instagram.com/arbaz_lone7">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/arbazlone07">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arbazlone&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/arbazlone?label=Followers&style=social" />
+</p>
 
 ---
 
-## 📍 Location & Time
+## 🧠 Skills
 
-- 📍 **Kashmir**
-- ⏰ **05:14** (UTC -12:00)
-
----
-
-## 👥 Followers
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Followers-3-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Following-1-lightgrey?style=flat-square&logo=github" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,cpp,python" />
+</p>
 
 ---
 
-## 🧠 Quote That Drives Me
+## 🛠️ Tools
 
-> *"The best way to predict the future is to create it — with code."*
-
----
-
-### 🌟 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Arbazlone&style=flat-square&color=blueviolet)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+</p>
 
 ---
 
-⭐ *If you like what I do, follow me — let's grow and build together!*
+## 📊 GitHub Statistics
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arbazlone&show_icons=true&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=arbazlone&theme=tokyonight" />
+
+</td>
+<td>
+
+<img src="https://camo.githubusercontent.com/e48401e4018d3287d387998dcbdd928fbe90d0a686ea201ac1dc58f00e5d85c9/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" width="250"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arbazlone&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Contributions Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arbazlone&theme=tokyonight" />
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=120&section=footer&text=Thanks%20for%20Visiting%20👋&fontSize=25&fontColor=61DAFB&animation=twinkling"/>
+</p>
