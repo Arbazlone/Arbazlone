@@ -1,5 +1,6 @@
-<h1 align="center">Arbaz Hassan</h1>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=200&section=header&text=Arbaz%20Hassan&fontSize=50&fontColor=61DAFB&animation=fadeIn&fontAlignY=35"/>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Computer+Science+Student;Building+Cool+Stuff+🚀" />
 </p>
